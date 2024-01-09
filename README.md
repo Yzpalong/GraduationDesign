@@ -23,7 +23,7 @@
 
 ## ⚡ 简介
 
-React mu admin， 基于 `React18`,`TypeScript`,`vite4`,`antd4.x`等相关主流技术开发，一个免费开源的中后台管理系统开箱即用的前端解决方案，也可适用于学习`React`时进行参考或练手的项目。
+React mu admin， 基于 `React18`,`TypeScript`,`vite4`,`antd4.x`等相关主流技术开发，中后台管理系统开箱即用的前端解决方案.
 
 ## 🌈 特性
 
@@ -38,7 +38,7 @@ React mu admin， 基于 `React18`,`TypeScript`,`vite4`,`antd4.x`等相关主流
 
 ## 📚 预览
 
--   [react-mu-admin](http://mu.haojiey.cn/) - 预览站点
+ - 预览站点
 
 <p align="center">
     <img alt="MuAdmin Logo" width="100%" src="./src/assets/preview/preview1.png">
@@ -49,14 +49,14 @@ React mu admin， 基于 `React18`,`TypeScript`,`vite4`,`antd4.x`等相关主流
 
 ## ⭐ 仓库地址
 
--   [https://github.com/haojiey/react-mu-admin](https://github.com/haojiey/react-mu-admin)：- GitHub 仓库，⭐ 欢迎 Star，感谢支持
+-   [https://github.com/Yzpalong/GraduationDesign.git](https://github.com/Yzpalong/GraduationDesign.git)：- GitHub 仓库，⭐ 欢迎 Star，感谢支持
 
 ## 🔨 安装
 
 -   克隆项目
 
 ```bash
-git clone https://github.com/haojiey/react-mu-admin.git
+git clone https://github.com/Yzpalong/GraduationDesign.git
 ```
 
 -   安装依赖
@@ -111,22 +111,4 @@ yarn build
 | :-: | :-: | :-: | :-: |
 | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
-## 🍵 捐赠
 
-如果你觉得这个项目对你有帮助，欢迎点一个 star 或者帮作者买一杯咖啡表示支持，让作者继续筹资维护线上环境的运行
-
-|                          微信                          |
-| :----------------------------------------------------: |
-| <img src="./src/assets/preview/wechat1.png" width=170> |
-
-## 💯 交流
-
-帮助开发者更方便地进行系统的了解，以及同伴们之间的互相交流学习
-
-|                      微信二维码                       |
-| :---------------------------------------------------: |
-| <img src="./src/assets/preview/wechat.png" width=170> |
-
-## License
-
-[MIT License Copyright (c) 2023 梁木由](./LICENSE)
